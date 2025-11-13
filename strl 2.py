@@ -125,16 +125,16 @@ st.markdown(custom_css, unsafe_allow_html=True)
 # "Copiar dirección de la imagen" y pégala aquí.
 # El enlace debe terminar en .png, .jpg, etc.
 
-URL_PASO1_WIKI = "https://imgur.com/a/MkIJ0SL"
-URL_PASO2_ACCESO = "https://imgur.com/a/MMkDGRQ"
-URL_PASO3_SSH = "https://imgur.com/a/BkVsw1s"
-URL_MOBA1_SESSION = "https://imgur.com/a/CFzakOz"
-URL_MOBA2_SSH_DIALOG = "https://imgur.com/a/6w3RgGO"
-URL_MOBA3_HOST = "https://imgur.com/a/xpUx82b"
-URL_MOBA4_NEW_PASS = "https://imgur.com/a/ia1sBHA"
-URL_MOBA5_FILL_PASS = "https://imgur.com/a/3e75exD"
-URL_MOBA6_FINISH_CONFIG = "https://imgur.com/a/Zog1YTA"
-URL_MOBA7_SUCCESS = "https://imgur.com/a/XOSaCPa"
+URL_PASO1_WIKI = "https://imgur.com/a/MkIJ0SL.png"
+URL_PASO2_ACCESO = "https://imgur.com/a/MMkDGRQ.png"
+URL_PASO3_SSH = "https://imgur.com/a/BkVsw1s.png"
+URL_MOBA1_SESSION = "https://imgur.com/a/CFzakOz.png"
+URL_MOBA2_SSH_DIALOG = "https://imgur.com/a/6w3RgGO.png"
+URL_MOBA3_HOST = "https://imgur.com/a/xpUx82b.png"
+URL_MOBA4_NEW_PASS = "https://imgur.com/a/ia1sBHA.png"
+URL_MOBA5_FILL_PASS = "https://imgur.com/a/3e75exD.png"
+URL_MOBA6_FINISH_CONFIG = "https://imgur.com/a/Zog1YTA.png"
+URL_MOBA7_SUCCESS = "https://imgur.com/a/XOSaCPa.png"
 
 # --- FIN DE ENLACES DE IMÁGENES ---
 
@@ -260,4 +260,5 @@ st.divider()
 st.header("3. ¿Preguntas?")
 st.success("¡Felicidades! Si llegó hasta aquí, ya está conectado al clúster.")
 st.markdown("Para más ayuda, consulte la wiki oficial o contacte a soporte de CCAD a través de [supercomputo.unc.edu.ar](https://supercomputo.unc.edu.ar).")
+
 st.balloons()
